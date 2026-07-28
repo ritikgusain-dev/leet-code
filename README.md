@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ritikgusain-dev/leet-code/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/ritikgusain-dev/leet-code/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/ritikgusain-dev/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikgusain-dev/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ritikgusain-dev/leet-code/tree/master/0118-pascals-triangle) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikgusain-dev/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ritikgusain-dev/leet-code/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ritikgusain-dev/leet-code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
