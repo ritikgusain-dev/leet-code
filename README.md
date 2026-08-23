@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ritikgusain-dev/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikgusain-dev/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ritikgusain-dev/leet-code/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/ritikgusain-dev/leet-code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikgusain-dev/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ritikgusain-dev/leet-code/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
