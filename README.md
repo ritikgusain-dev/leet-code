@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ritikgusain-dev/leet-code/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ritikgusain-dev/leet-code/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ritikgusain-dev/leet-code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritikgusain-dev/leet-code/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ritikgusain-dev/leet-code/tree/master/0075-sort-colors) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ritikgusain-dev/leet-code/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ritikgusain-dev/leet-code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
