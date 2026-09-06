@@ -19,9 +19,9 @@ public:
         }
         return true;
         }
-    void solve(vector<string>&board, int *c,int row, int n){
+    void solve(vector<string>&board, int &c,int row, int n){
         if(row==n){
-            (*c)++;
+            c++;
             return;
         }
         for(int j=0;j<n;j++){
@@ -36,7 +36,7 @@ public:
     int totalNQueens(int n) {
         vector<string>board(n,string(n,'.'));
         int c=0;
-        solve(board,&c,0,n);
+        solve(board,c,0,n);
         return c;
     }
 };
