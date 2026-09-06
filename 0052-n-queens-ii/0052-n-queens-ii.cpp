@@ -19,15 +19,15 @@ public:
         }
         return true;
         }
-    void solve(vector<string>&board, vector<vector<string>>&ans,int row, int n){
+    void solve(vector<string>&board, int *c,int row, int n){
         if(row==n){
-            ans.push_back(board);
+            (*c)++;
             return;
         }
         for(int j=0;j<n;j++){
             if(isSafe(board,row,j,n)){
                 board[row][j]='Q';
-                solve(board,ans,row+1,n);
+                solve(board,c,row+1,n);
                 board[row][j]='.';
             }
         }
@@ -35,8 +35,8 @@ public:
     }
     int totalNQueens(int n) {
         vector<string>board(n,string(n,'.'));
-        vector<vector<string>>ans;
-        solve(board,ans,0,n);
-        return ans.size();
+        int c=0;
+        solve(board,&c,0,n);
+        return c;
     }
 };
