@@ -25,6 +25,7 @@ public:
         while(low<=high){
             //mid will be randomly picking distances between low and high and checks whether the distance is possible to utilise all the balls within the size of the given vector
             int mid=low+(high-low)/2;
+            //changing the range(low-high) each time (depeding upon the canPlace) and moving closer to the answer
             if(canPlace(position,mid,m)) low=mid+1;
             else high=mid-1;
         }
