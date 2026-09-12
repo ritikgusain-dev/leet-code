@@ -11,6 +11,9 @@ public:
         }
         return maz;
     }
+    //n==0 means that all the shops recieved the items //ACCEPTED
+    //n>0 means that the items are finished but all shops didnt received items //ACCEPTED
+    // n<0 items bach gaye and shops khatam hogayi WRONG CASE
     bool canDistribute(int n,int random,vector<int>&a){
         for(int i=0;i<a.size();i++){
             if(a[i]%random!=0) n-=((a[i]/random)+1);
