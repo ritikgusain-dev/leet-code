@@ -20,7 +20,7 @@ public:
     }
     int maxDistance(vector<int>& position, int m) {
         sort(position.begin(),position.end());
-        int low=0; //minimum possible distance between 2 balls
+        int low=1; //minimum possible distance between 2 balls
         int high=position[position.size()-1]-position[0]; //maximum possible distance between 2 balls
         while(low<=high){
             //mid will be randomly picking distances between low and high and checks whether the distance is possible to utilise all the balls within the size of the given vector
