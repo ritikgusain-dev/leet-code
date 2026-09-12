@@ -3,13 +3,15 @@ public:
     bool canEat(vector<int>&a,int time, int val){
         int c=0;
         for(int i=0;i<a.size();i++){
-            if(a[i]<=val) c+=1;
-            else {
-                if(a[i]%val==0)
-                c+=(a[i]/val);
-                else 
-                c+=(a[i]/val)+1;
-            }
+             c+=(a[i]+val-1)/val;
+             //   OR
+            // if(a[i]<=val) c+=1;
+            // else {
+            //     if(a[i]%val==0)
+            //     c+=(a[i]/val);
+            //     else 
+            //     c+=(a[i]/val)+1;
+            // }
             if(c>time) return false;
         }
         return true;
