@@ -9,7 +9,6 @@ public:
         return false;
     }
     int maximumCandies(vector<int>& candies, long long k) {
-        sort(candies.begin(),candies.end());
         int low=1,high=*max_element(candies.begin(),candies.end());
         int tempHigh=high;
         while(low<=high){
