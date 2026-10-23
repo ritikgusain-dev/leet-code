@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgusain-dev/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ritikgusain-dev/leet-code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ritikgusain-dev/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikgusain-dev/leet-code/tree/master/0088-merge-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikgusain-dev/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgusain-dev/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ritikgusain-dev/leet-code/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ritikgusain-dev/leet-code/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -156,9 +158,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgusain-dev/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ritikgusain-dev/leet-code/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ritikgusain-dev/leet-code/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgusain-dev/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgusain-dev/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgusain-dev/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
