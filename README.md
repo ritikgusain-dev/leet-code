@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikgusain-dev/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ritikgusain-dev/leet-code/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/ritikgusain-dev/leet-code/tree/master/0645-set-mismatch) |
 ## String
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikgusain-dev/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/ritikgusain-dev/leet-code/tree/master/0058-length-of-last-word) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ritikgusain-dev/leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ritikgusain-dev/leet-code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ritikgusain-dev/leet-code/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
