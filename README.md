@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ritikgusain-dev/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikgusain-dev/leet-code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ritikgusain-dev/leet-code/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/ritikgusain-dev/leet-code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikgusain-dev/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ritikgusain-dev/leet-code/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/ritikgusain-dev/leet-code/tree/master/0645-set-mismatch) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritikgusain-dev/leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgusain-dev/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ritikgusain-dev/leet-code/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ritikgusain-dev/leet-code/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ritikgusain-dev/leet-code/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
 ## Counting
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ritikgusain-dev/leet-code/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -185,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikgusain-dev/leet-code/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
