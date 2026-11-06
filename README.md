@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ritikgusain-dev/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikgusain-dev/leet-code/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ritikgusain-dev/leet-code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ritikgusain-dev/leet-code/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikgusain-dev/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/ritikgusain-dev/leet-code/tree/master/0645-set-mismatch) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ritikgusain-dev/leet-code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ritikgusain-dev/leet-code/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/ritikgusain-dev/leet-code/tree/master/0645-set-mismatch) |
 ## String
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ritikgusain-dev/leet-code/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/ritikgusain-dev/leet-code/tree/master/0242-valid-anagram) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ritikgusain-dev/leet-code/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
