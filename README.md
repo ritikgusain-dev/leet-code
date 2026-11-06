@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikgusain-dev/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/ritikgusain-dev/leet-code/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritikgusain-dev/leet-code/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ritikgusain-dev/leet-code/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ritikgusain-dev/leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ritikgusain-dev/leet-code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ritikgusain-dev/leet-code/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgusain-dev/leet-code/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritikgusain-dev/leet-code/tree/master/0746-min-cost-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
