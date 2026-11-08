@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ritikgusain-dev/leet-code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ritikgusain-dev/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikgusain-dev/leet-code/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ritikgusain-dev/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ritikgusain-dev/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritikgusain-dev/leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikgusain-dev/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/ritikgusain-dev/leet-code/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ritikgusain-dev/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ritikgusain-dev/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ritikgusain-dev/leet-code/tree/master/0242-valid-anagram) |
@@ -217,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ritikgusain-dev/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ritikgusain-dev/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
