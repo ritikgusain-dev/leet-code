@@ -29,7 +29,7 @@ public:
         while(t1 != t2){
             t1 = t1->next;
             t2 = t2->next;
-            if(t1==t2) return t1;
+            if(t1==nullptr && t2==nullptr) return nullptr;
             if(t1==nullptr) t1=headB;
             if(t2==nullptr) t2=headA;
         }
