@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ritikgusain-dev/leet-code/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ritikgusain-dev/leet-code/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/ritikgusain-dev/leet-code/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikgusain-dev/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ritikgusain-dev/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/ritikgusain-dev/leet-code/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/ritikgusain-dev/leet-code/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ritikgusain-dev/leet-code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ritikgusain-dev/leet-code/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
