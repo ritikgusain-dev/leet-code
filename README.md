@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ritikgusain-dev/leet-code/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgusain-dev/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritikgusain-dev/leet-code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ritikgusain-dev/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritikgusain-dev/leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/ritikgusain-dev/leet-code/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
