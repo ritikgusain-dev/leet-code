@@ -12,10 +12,11 @@ public:
         //     c++;
         // }
         // NORMALLY KEEP ON DIVIDING THE NUMBER BY 2 UNTIL THE NUMBER  BECOMES 0, AND KEEP ON CHECKING THE REMAINDER IT IT'S 1
-        while(n!=0){
-            if(n%2!=0) c++;
-            n=n/2;
-        }
-        return c;
+        // while(n!=0){
+        //     if(n%2!=0) c++;
+        //     n=n/2;
+        // }
+        int x = __builtin_popcount(n);
+        return x;
     }
 };
